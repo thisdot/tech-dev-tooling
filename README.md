@@ -1,5 +1,6 @@
-<h3>Dev-Tools</h3>
+# Dev-Tools
 
-[Datadog](https://www.datadoghq.com/)<br>
-[Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)<br>
-[Nx](https://nx.dev/)<br>
+- [Datadog](https://www.datadoghq.com/) 
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) 
+- [Nx](https://nx.dev/) 
+- [Small Dev Tools](https://smalldev.tools/)
