@@ -22,10 +22,10 @@ We would love to know which tooling library you think deserves to be included in
 - [bit.dev](https://bit.dev/)
 Toolchain for building applications from independent components. Instead of building an application that consists of lots of components, Bit builds lots of components that are composed to build many different applications.
 
-- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) 
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 Web developer tools built into the [Chrome](https://www.google.com/chrome/) browser.
 
-- [Nx](https://nx.dev/) 
+- [Nx](https://nx.dev/)
 Framework to help architect, test, and build web applications. Especially helpful for organizing monorepos.
 
 - [Storybook](https://storybook.js.org/)
@@ -38,8 +38,8 @@ Platform for building and using APIs.
 
 ## Accessibility
 
-- [axe](https://www.deque.com/axe/): axe is a digitial accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
-axe is a digitial accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
+- [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
+axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
 
 ## Security
 
