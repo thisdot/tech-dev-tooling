@@ -1,4 +1,4 @@
-Here you will find a list of different tooling libraries. 
+Here you will find a list of different tooling libraries.
 
 We would love to know which tooling library you think deserves to be included in our list. If you'd like to contribute, please see our [contributing guidelines.](./CONTRIBUTING.md)
 
@@ -32,6 +32,9 @@ Framework to help architect, test, and build web applications. Especially helpfu
 An open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
 ## APIs
+
+- [HTTPie](https://httpie.io/)
+Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
 
 - [Postman](https://www.postman.com/)
 Platform for building and using APIs.
