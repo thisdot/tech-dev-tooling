@@ -34,6 +34,9 @@ An open source tool for building UI components and pages in isolation. It stream
 
 ## APIs
 
+- [HTTPie](https://httpie.io/)
+Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
+
 - [Postman](https://www.postman.com/)
 Platform for building and using APIs.
 
@@ -42,8 +45,8 @@ Testing tools for APIs
 
 ## Accessibility
 
-- [axe](https://www.deque.com/axe/)
-axe is a digitial accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
+- [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
+axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
 
 ## Security
 
