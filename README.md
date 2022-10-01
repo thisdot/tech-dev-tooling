@@ -40,6 +40,12 @@ Friendly tool for consuming APIs (and make HTTP requests in general) through CLI
 - [Postman](https://www.postman.com/)
 Platform for building and using APIs.
 
+- [REST-assured](https://rest-assured.io/)
+ This is the tool of choice for most web devs working with Java. REST-assured enables you to test and validate REST services
+
+- [HoppScotch](https://hoppscotch.io/)
+HoppScotch is a lightweight open source API development tool that runs smoothly and looks beautiful.
+
 - [SoapUI](https://www.soapui.org/)
 Testing tools for APIs
 
@@ -80,6 +86,9 @@ Run UI tests in the cloud across different browsers on real devices. Automated s
 
 - [Jest](https://jestjs.io)
 Unit test framework for javascript that runs so fast, you can run them all every time the file is saved.
+
+## Web Design
+- [Figma]()
 
 ## Miscellaneous
 
