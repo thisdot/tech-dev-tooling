@@ -114,5 +114,5 @@ Bootstrap is a free tool for HTML, CSS and JS development.
 - [Materalize](https://materializecss.com/)
 Materialize is a modern responsive CSS framework based on Material Design by Google. 
 
-- [Semantic UI](https://github.com/pahen/madge)
+- [Semantic UI](https://semantic-ui.com/)
 Semantic UI is an open source UI framework.
