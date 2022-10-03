@@ -106,7 +106,7 @@ Visual Studio Code extension for markdown that will lint and style check it. For
 ## Design System
 
 - [Ant Design](https://ant.design/)
-An UI design language and React UI library with a set of high-quality React components, one of best React UI library.
+Ant design is a design system for enterprise-level products.
 
 - [Bootstrap](https://getbootstrap.com/)
 Bootstrap is a free tool for HTML, CSS and JS development.
