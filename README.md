@@ -37,7 +37,7 @@ An open source tool for building UI components and pages in isolation. It stream
 ## APIs
 
 - [Insomnia](https://insomnia.rest/)
-Insomnia is a Open Source framework developing/testing API Clients. It can be used to send REST, SOAP, GraphQ and GRPC requests. With this tool it is possible to carry out documentation, automation and with its CLI tools version it is possible to implement pipeline tests.
+Insomnia is an Open Source framework developing/testing API Clients. It can be used to send REST, SOAP, GraphQL and GRPC requests. With this tool it is possible to carry out documentation, automation and with its CLI tools version it is possible to implement pipeline tests.
 
 - [HTTPie](https://httpie.io/)
 Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
