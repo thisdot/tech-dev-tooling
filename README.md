@@ -87,6 +87,10 @@ Library for implementing centralized state management for JavaScript apps.
 - [XState](https://xstate.js.org/)
 Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
 
+## Package Managers
+- [NPM (Node Package Manager)](https://www.npmjs.com/)
+Package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
+
 ## Web Testing
 
 - [Selenium](https://www.selenium.dev/)
