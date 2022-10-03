@@ -26,6 +26,9 @@ Toolchain for building applications from independent components. Instead of buil
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
 Web developer tools built into the [Chrome](https://www.google.com/chrome/) browser.
 
+- [Visual Studio Code](https://code.visualstudio.com)
+An open source code editor that runs everywhere and allows you to do anything from debugging code to inputting Git commands or creating Sass code.
+
 - [Nx](https://nx.dev/)
 Framework to help architect, test, and build web applications. Especially helpful for organizing monorepos.
 
@@ -39,6 +42,12 @@ Friendly tool for consuming APIs (and make HTTP requests in general) through CLI
 
 - [Postman](https://www.postman.com/)
 Platform for building and using APIs.
+
+- [REST-assured](https://rest-assured.io/)
+ This is the tool of choice for most web devs working with Java. REST-assured enables you to test and validate REST services
+
+- [HoppScotch](https://hoppscotch.io/)
+HoppScotch is a lightweight open source API development tool that runs smoothly and looks beautiful.
 
 - [SoapUI](https://www.soapui.org/)
 Testing tools for APIs
@@ -81,6 +90,17 @@ Run UI tests in the cloud across different browsers on real devices. Automated s
 - [Jest](https://jestjs.io)
 Unit test framework for javascript that runs so fast, you can run them all every time the file is saved.
 
+## Web Design
+
+- [Figma](https://figma.com)
+A design tool for UI/UX design
+
+- [Protopie](https://protopie.io)
+It's a no-code creation tool used to create interactive prototypes for mobile, web, desktop or the Internet of Things (IoT).
+
+- [Framer](https://framer.com)
+Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code 
+
 ## Miscellaneous
 
 - [Madge](https://github.com/pahen/madge)
@@ -91,6 +111,15 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 
 - [StackEdit](https://stackedit.io/)
 Browser-based markdown editor.
+
+- [GitHub](https://github.com)
+GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. 
+
+- [SourceTree](https://sourcetreeapp.com)
+Sourcetree is a Graphical User Interface (GUI for the cool kids) used to manage Git repository hosts
+
+- [StackOverflow](https://stackoverflow.com)
+A question and answer website built for programmers and tech enthusiasts. 
 
 - [Tiny Helpers](https://tiny-helpers.dev/)
 A collection of free single-purpose online tools for web developers... Examples include tools for CSS, Color, SVG, Accessibility, Performmance, Icons and many more.
