@@ -16,6 +16,8 @@ We would love to know which tooling library you think deserves to be included in
 
 [Miscellaneous](#miscellaneous)
 
+[Design System](#cdesign-system)
+
 # Dev Tools
 
 ## Web Development
@@ -36,6 +38,9 @@ Framework to help architect, test, and build web applications. Especially helpfu
 An open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
 ## APIs
+
+- [Insomnia](https://insomnia.rest/)
+Insomnia is an Open Source framework developing/testing API Clients. It can be used to send REST, SOAP, GraphQL and GRPC requests. With this tool it is possible to carry out documentation, automation and with its CLI tools version it is possible to implement pipeline tests.
 
 - [HTTPie](https://httpie.io/)
 Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
@@ -126,3 +131,17 @@ A collection of free single-purpose online tools for web developers... Examples 
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint)
 Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
+
+## Design System
+
+- [Ant Design](https://ant.design/)
+Ant design is a design system for enterprise-level products.
+
+- [Bootstrap](https://getbootstrap.com/)
+Bootstrap is a free tool for HTML, CSS and JS development.
+
+- [Materalize](https://materializecss.com/)
+Materialize is a modern responsive CSS framework based on Material Design by Google. 
+
+- [Semantic UI](https://semantic-ui.com/)
+Semantic UI is an open source UI framework.
