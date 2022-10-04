@@ -37,6 +37,15 @@ Framework to help architect, test, and build web applications. Especially helpfu
 - [Storybook](https://storybook.js.org/)
 An open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
+A Chrome extension that adds a toolbar button to the browser with various web developer tools.
+
+- [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
+Selector Gadget is an open source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
+
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
+
 ## APIs
 
 - [Insomnia](https://insomnia.rest/)
@@ -58,7 +67,7 @@ HoppScotch is a lightweight open source API development tool that runs smoothly 
 Testing tools for APIs
 
 - [Sandbox](https://getsandbox.com/)
-helps to accelerate API development process and quickly mock SOAP web services and RESTful API. With Sandbox, you can generate from instant deployment, debugging tools for integration, API definitions, and collaborative build. 
+helps to accelerate API development process and quickly mock SOAP web services and RESTful API. With Sandbox, you can generate from instant deployment, debugging tools for integration, API definitions, and collaborative build.
 
 ## Accessibility
 
@@ -76,6 +85,12 @@ Monitoring and security platform for cloud applications.
 - [BurpSuite](https://portswigger.net/burp)
 Web vulnerability scanner for automated testing, mapping, analysis, and security.
 
+- [WireShark](https://www.wireshark.org/)
+Network protocol analyzer.
+
+- [Nmap](https://nmap.org/)
+Network exploration tool and security / port scanner.
+
 ## State Management
 
 - [MobX](https://mobx.js.org/README.html)
@@ -91,6 +106,12 @@ Use finite state machines in JavaScript/TypeScript. Finite state machines can ma
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
 Package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
 
+<<<<<<< HEAD
+=======
+- [Yarn](https://yarnpkg.com/)
+Package manager that is a replacement for NPM. It is faster and more secure than NPM.
+
+>>>>>>> ee335b1d3575525226f2df4d707fc0c8e72d8fb6
 ## Web Testing
 
 - [Selenium](https://www.selenium.dev/)
@@ -114,7 +135,7 @@ A design tool for UI/UX design
 It's a no-code creation tool used to create interactive prototypes for mobile, web, desktop or the Internet of Things (IoT).
 
 - [Framer](https://framer.com)
-Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code 
+Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code
 
 ## Miscellaneous
 
@@ -128,19 +149,22 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 Browser-based markdown editor.
 
 - [GitHub](https://github.com)
-GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. 
+GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
 
 - [SourceTree](https://sourcetreeapp.com)
 Sourcetree is a Graphical User Interface (GUI for the cool kids) used to manage Git repository hosts
 
 - [StackOverflow](https://stackoverflow.com)
-A question and answer website built for programmers and tech enthusiasts. 
+A question and answer website built for programmers and tech enthusiasts.
 
 - [Tiny Helpers](https://tiny-helpers.dev/)
 A collection of free single-purpose online tools for web developers... Examples include tools for CSS, Color, SVG, Accessibility, Performmance, Icons and many more.
 
 - [markdownlint](https://github.com/DavidAnson/markdownlint)
 Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
+
+- [Notion](https://www.notion.so/)
+Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
 ## Design System
 
@@ -151,7 +175,10 @@ Ant design is a design system for enterprise-level products.
 Bootstrap is a free tool for HTML, CSS and JS development.
 
 - [Materalize](https://materializecss.com/)
-Materialize is a modern responsive CSS framework based on Material Design by Google. 
+Materialize is a modern responsive CSS framework based on Material Design by Google.
 
 - [Semantic UI](https://semantic-ui.com/)
 Semantic UI is an open source UI framework.
+
+- [Tailwind CSS](https://tailwindcss.com/)
+Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
