@@ -106,12 +106,9 @@ Use finite state machines in JavaScript/TypeScript. Finite state machines can ma
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
 Package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
 
-<<<<<<< HEAD
-=======
 - [Yarn](https://yarnpkg.com/)
 Package manager that is a replacement for NPM. It is faster and more secure than NPM.
 
->>>>>>> ee335b1d3575525226f2df4d707fc0c8e72d8fb6
 ## Web Testing
 
 - [Selenium](https://www.selenium.dev/)
@@ -136,6 +133,9 @@ It's a no-code creation tool used to create interactive prototypes for mobile, w
 
 - [Framer](https://framer.com)
 Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code
+
+- [Mockflow](https://www.mockflow.com/)
+A wireframe software that allows you to create interface. It has several internal components and icons.
 
 ## Miscellaneous
 
