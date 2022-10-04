@@ -102,6 +102,15 @@ Library for implementing centralized state management for JavaScript apps.
 - [XState](https://xstate.js.org/)
 Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
 
+- [NgRx](https://ngrx.io/)
+Provides reactive state management for Angular apps inspired by Redux. Unify the events in your application and derive state using RxJS.
+
+- [Akita](https://opensource.salesforce.com/akita/)
+State management pattern, built on top of RxJS, which takes the idea of multiple data stores from Flux and the immutable updates from Redux, along with the concept of streaming data, to create the Observable Data Store model.
+
+- [Elf](https://ngneat.github.io/elf/)
+Reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it. Elf encourages simplicity. It saves you the hassle of creating boilerplate code and offers powerful tools with a moderate learning curve, suitable for experienced and inexperienced developers alike.
+
 ## Package Managers
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
 Package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
