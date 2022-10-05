@@ -46,6 +46,9 @@ Selector Gadget is an open source Chrome Extension that makes CSS selector gener
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
 
+- [Webhook](https://webhook.site/)
+Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
+
 ## APIs
 
 - [Insomnia](https://insomnia.rest/)
@@ -131,6 +134,9 @@ Run UI tests in the cloud across different browsers on real devices. Automated s
 
 - [Jest](https://jestjs.io)
 Unit test framework for javascript that runs so fast, you can run them all every time the file is saved.
+
+- [Cypress](https://www.cypress.io/)
+A purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
 
 ## Web Design
 
