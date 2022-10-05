@@ -135,6 +135,9 @@ Run UI tests in the cloud across different browsers on real devices. Automated s
 - [Jest](https://jestjs.io)
 Unit test framework for javascript that runs so fast, you can run them all every time the file is saved.
 
+- [Cypress](https://www.cypress.io/)
+A purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
+
 ## Web Design
 
 - [Figma](https://figma.com)
