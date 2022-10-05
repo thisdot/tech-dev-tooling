@@ -135,7 +135,7 @@ It's a no-code creation tool used to create interactive prototypes for mobile, w
 Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code
 
 - [Mockflow](https://www.mockflow.com/)
-A wireframe software that allows you to create interface. It has several internal components and icons.
+A wireframe software that allows you to create an interface. It has several internal components and icons.
 
 ## Miscellaneous
 
