@@ -46,6 +46,9 @@ Selector Gadget is an open source Chrome Extension that makes CSS selector gener
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
 
+- [Vue.js Devtools](https://devtools.vuejs.org/)
+Vue.js Browser Devtools is an open source extension for Vue.js framework. It allows you to debug Vue.js applications in the browser developer tools.
+
 - [Webhook](https://webhook.site/)
 Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
 
