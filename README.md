@@ -18,6 +18,7 @@ We would love to know which tooling library you think deserves to be included in
 
 [Design System](#cdesign-system)
 
+[Boiler Plate](#boiler-plate)
 # Dev Tools
 
 ## Web Development
@@ -200,3 +201,15 @@ Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+
+## Boiler Plate
+
+- [Vite](https://vitejs.dev/)
+Vite is a boiler plate to generate front-end projects with support to many javascript frameworks.
+
+- [Serverless](https://www.serverless.com/)
+Serverless is a framework to generate backend projects with AWS Lambda.
+
+- [Create React App](https://create-react-app.dev/)
+Create React App is a boiler plate to generate React Apps.
+
