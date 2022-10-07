@@ -184,6 +184,9 @@ Visual Studio Code extension for markdown that will lint and style check it. For
 - [Notion](https://www.notion.so/)
 Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
+-[Wappalyzer][https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg]
+Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+
 ## Design System
 
 - [Ant Design](https://ant.design/)
