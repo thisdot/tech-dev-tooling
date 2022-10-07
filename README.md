@@ -75,6 +75,9 @@ Testing tools for APIs
 - [Sandbox](https://getsandbox.com/)
 helps to accelerate API development process and quickly mock SOAP web services and RESTful API. With Sandbox, you can generate from instant deployment, debugging tools for integration, API definitions, and collaborative build.
 
+- [Hasura](https://hasura.io/)
+Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
+
 ## Accessibility
 
 - [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
