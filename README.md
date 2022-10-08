@@ -144,6 +144,9 @@ Unit test framework for javascript that runs so fast, you can run them all every
 - [Cypress](https://www.cypress.io/)
 A purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
 
+- [React Testing Library](https://testing-library.com/)
+A complete testing utilities for React that allows interact with your app like a user. Accessible by Default. For help you to select elements in DOM use the [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano).
+
 ## Web Design
 
 - [Figma](https://figma.com)
