@@ -206,3 +206,9 @@ Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+
+## Software Development FlowChart 
+
+- [Miro](https://miro.com/)
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
+Helps Web Developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
