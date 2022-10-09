@@ -190,6 +190,9 @@ Visual Studio Code extension for markdown that will lint and style check it. For
 - [Notion](https://www.notion.so/)
 Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
+- [Dev Community](https://dev.to/)
+Dev.to is a communtiy based platform which consists of a community of content creators. It allows you to study new tech via the blogs or even add new blogs on the tech you want to contribute.
+
 ## Design System
 
 - [Ant Design](https://ant.design/)
