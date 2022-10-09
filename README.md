@@ -58,7 +58,7 @@ Vite is a boiler plate to generate front-end projects with support to many javas
 Serverless is a framework to generate backend projects with AWS Lambda.
 
 - [Create React App](https://create-react-app.dev/)
-Create React App is a boiler plate to generate React Apps.
+Create React App is a boiler plate to generate React projects.
 
 ## APIs
 
