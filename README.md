@@ -52,7 +52,7 @@ Vue.js Browser Devtools is an open source extension for Vue.js framework. It all
 Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
 
 - [Vite](https://vitejs.dev/)
-Vite is a boiler plate to generate front-end projects with support to many javascript frameworks.
+Vite is a boiler plate to generate front-end projects that supports many JavaScript frameworks.
 
 - [Serverless](https://www.serverless.com/)
 Serverless is a framework to generate backend projects with AWS Lambda.
