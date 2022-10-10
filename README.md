@@ -155,6 +155,9 @@ Framer is an awesome tool to empower you to create interactive, highly customisa
 - [InVision](https://www.invisionapp.com/)
 InVision is the online whiteboard and productivity platform powering the future of work.
 
+- [Marvel](https://marvelapp.com/)
+A design, prototype and wireframe software that you can use to create interfaces, interactive designs, user testing and work collaboratively.
+
 - [Mockflow](https://www.mockflow.com/)
 A wireframe software that allows you to create an interface. It has several internal components and icons.
 
