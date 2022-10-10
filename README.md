@@ -17,7 +17,6 @@ We would love to know which tooling library you think deserves to be included in
 [Miscellaneous](#miscellaneous)
 
 [Design System](#cdesign-system)
-
 # Dev Tools
 
 ## Web Development
@@ -51,6 +50,15 @@ Vue.js Browser Devtools is an open source extension for Vue.js framework. It all
 
 - [Webhook](https://webhook.site/)
 Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
+
+- [Vite](https://vitejs.dev/)
+Vite is a boiler plate to generate front-end projects that supports many JavaScript frameworks.
+
+- [Serverless](https://www.serverless.com/)
+Serverless is a framework to generate backend projects with AWS Lambda.
+
+- [Create React App](https://create-react-app.dev/)
+Create React App is a boiler plate to generate React projects.
 
 ## APIs
 
@@ -206,3 +214,4 @@ Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+
