@@ -157,6 +157,9 @@ We would love to know which tooling library you think deserves to be included in
 - [React Testing Library](https://testing-library.com/)
   A popular testing library for React applications that also comes with a [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano).
 
+-[Pattern Lab](https://patternlab.io/)
+A frontend workshop environment that helps you build, view, test, and showcase your design system's UI components.
+
 ## Web Design
 
 - [Figma](https://figma.com)
@@ -231,4 +234,4 @@ We would love to know which tooling library you think deserves to be included in
   Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
