@@ -87,6 +87,9 @@ We would love to know which tooling library you think deserves to be included in
 - [Hasura](https://hasura.io/)
   Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
 
+- [Strapi](https://strapi.io/)
+  Strapi is a open-source CMS (Content Management Systema) with a beauty and fully customizable dashboard. Build the API faster (REST or GraphQL) and manage your content easily.
+
 ## Accessibility
 
 - [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
