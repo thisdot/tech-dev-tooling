@@ -212,6 +212,10 @@ We would love to know which tooling library you think deserves to be included in
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
   Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 
+- [Trello](https://trello.com/)
+  Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking. Add files, checklists, or even automation: customize it all for how your team works best.
+
+
 ## Design System
 
 - [Ant Design](https://ant.design/)
