@@ -88,7 +88,7 @@ We would love to know which tooling library you think deserves to be included in
   Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
 
 - [Strapi](https://strapi.io/)
-  Strapi is a open-source CMS (Content Management Systema) with a beauty and fully customizable dashboard. Build the API faster (REST or GraphQL) and manage your content easily.
+  Strapi is an open-source CMS (Content Management System) with a beautiful and fully customizable dashboard. Build your API's faster (REST or GraphQL) and manage your content easily.
 
 ## Accessibility
 
