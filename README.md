@@ -145,7 +145,7 @@ Unit test framework for javascript that runs so fast, you can run them all every
 A purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
 
 - [React Testing Library](https://testing-library.com/)
-The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils, in a way that encourages better testing practices. Its primary guiding principle is:
+The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils. 
 
 ## Web Design
 
