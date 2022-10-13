@@ -163,9 +163,6 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Selenium](https://www.selenium.dev/)
   Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
-  
-- [Vitest](https://vitest.dev/)
-  A Vite-native unit test framework that can be used on Vite Tool.
 
 ## Web Design
 
@@ -241,3 +238,7 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Tailwind CSS](https://tailwindcss.com/)
   Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
+
+- [Chakra UI](https://chakra-ui.com/)
+  Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+
