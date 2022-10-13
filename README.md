@@ -163,10 +163,6 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Selenium](https://www.selenium.dev/)
   Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
-  
-- [Vitest](https://vitest.dev/)
-  A Vite-native unit test framework that can be used on Vite Tool.
-
 ## Web Design
 
 - [Figma](https://figma.com)
@@ -241,3 +237,6 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Tailwind CSS](https://tailwindcss.com/)
   Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
+
+- [Bulma](https://bulma.io/)
+  Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. 
