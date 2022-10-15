@@ -27,9 +27,12 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
   Web developer tools built into the [Chrome](https://www.google.com/chrome/) browser.
-  
+
 - [Create React App](https://create-react-app.dev/)
   Create React App is a boiler plate to generate React projects.
+
+- [Neovim](https://neovim.io/)
+  An open source text editor based in Vim, a highly configurable editor built to make creating and changing any kind of text very efficient.
 
 - [Nx](https://nx.dev/)
   Framework to help architect, test, and build web applications. Especially helpful for organizing monorepos.
@@ -39,7 +42,7 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
   Selector Gadget is an open source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
-  
+
 - [Serverless](https://www.serverless.com/)
   Serverless is a framework to generate backend projects with AWS Lambda.
 
@@ -69,7 +72,7 @@ We would love to know which tooling library you think deserves to be included in
 
 - [HoppScotch](https://hoppscotch.io/)
   HoppScotch is a lightweight open source API development tool that runs smoothly and looks beautiful.
-  
+
 - [HTTPie](https://httpie.io/)
   Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
 
@@ -237,4 +240,4 @@ A frontend workshop environment that helps you build, view, test, and showcase y
   Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
+  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
