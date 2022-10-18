@@ -27,9 +27,12 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
   Web developer tools built into the [Chrome](https://www.google.com/chrome/) browser.
-  
+
 - [Create React App](https://create-react-app.dev/)
   Create React App is a boiler plate to generate React projects.
+
+- [Neovim](https://neovim.io/)
+  An open source text editor based in Vim, a highly configurable editor built to make creating and changing any kind of text very efficient.
 
 - [Nx](https://nx.dev/)
   Framework to help architect, test, and build web applications. Especially helpful for organizing monorepos.
@@ -39,7 +42,7 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
   Selector Gadget is an open source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
-  
+
 - [Serverless](https://www.serverless.com/)
   Serverless is a framework to generate backend projects with AWS Lambda.
 
@@ -69,7 +72,7 @@ We would love to know which tooling library you think deserves to be included in
 
 - [HoppScotch](https://hoppscotch.io/)
   HoppScotch is a lightweight open source API development tool that runs smoothly and looks beautiful.
-  
+
 - [HTTPie](https://httpie.io/)
   Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
 
@@ -163,6 +166,9 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Selenium](https://www.selenium.dev/)
   Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
+  
+- [Vitest](https://vitest.dev/)
+  A Vite-native unit test framework that can be used on Vite.
 
 ## Web Design
 
@@ -198,6 +204,13 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 - [Markdownlint](https://github.com/DavidAnson/markdownlint)
   Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
 
+- [Miro](https://miro.com/)
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
+Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+
+- [Small Dev Tools](https://smalldev.tools/)
+Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
+
 - [Notion](https://www.notion.so/)
   Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
@@ -229,6 +242,9 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Bootstrap](https://getbootstrap.com/)
   Bootstrap is a free tool for HTML, CSS and JS development.
+  
+- [Chakra UI](https://chakra-ui.com/)
+  Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
 - [Materalize](https://materializecss.com/)
   Materialize is a modern responsive CSS framework based on Material Design by Google.
@@ -238,7 +254,4 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Tailwind CSS](https://tailwindcss.com/)
   Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
-
-- [Chakra UI](https://chakra-ui.com/)
-  Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
