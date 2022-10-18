@@ -201,6 +201,13 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 - [Markdownlint](https://github.com/DavidAnson/markdownlint)
   Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
 
+- [Miro](https://miro.com/)
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
+Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+
+- [Small Dev Tools](https://smalldev.tools/)
+Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
+
 - [Notion](https://www.notion.so/)
   Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
