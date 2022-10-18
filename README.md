@@ -242,6 +242,9 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 
 - [Bootstrap](https://getbootstrap.com/)
   Bootstrap is a free tool for HTML, CSS and JS development.
+  
+- [Chakra UI](https://chakra-ui.com/)
+  Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
 - [Materalize](https://materializecss.com/)
   Materialize is a modern responsive CSS framework based on Material Design by Google.
@@ -250,4 +253,5 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
   Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
+
