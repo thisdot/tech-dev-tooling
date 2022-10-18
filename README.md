@@ -211,4 +211,4 @@ Tailwind CSS is a utility-first CSS framework for rapidly building custom user i
 
 - [Miro](https://miro.com/)
 The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
-Helps Web Developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
