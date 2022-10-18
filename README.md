@@ -170,6 +170,7 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 - [Vitest](https://vitest.dev/)
   A Vite-native unit test framework that can be used on Vite.
 
+
 ## Web Design
 
 - [Figma](https://figma.com)
@@ -243,6 +244,9 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 - [Bootstrap](https://getbootstrap.com/)
   Bootstrap is a free tool for HTML, CSS and JS development.
   
+- [Bulma](https://bulma.io/)
+Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. 
+  
 - [Chakra UI](https://chakra-ui.com/)
   Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
@@ -254,4 +258,5 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 
 - [Tailwind CSS](https://tailwindcss.com/)
   Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
+
 
