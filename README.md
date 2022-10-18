@@ -165,7 +165,7 @@ A frontend workshop environment that helps you build, view, test, and showcase y
   Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
   
 - [Vitest](https://vitest.dev/)
-  A Vite-native unit test framework that can be used on Vite Tool.
+  A Vite-native unit test framework that can be used on Vite.
 
 ## Web Design
 
