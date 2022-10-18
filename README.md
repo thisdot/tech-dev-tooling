@@ -166,6 +166,10 @@ It's a no-code creation tool used to create interactive prototypes for mobile, w
 - [Madge](https://github.com/pahen/madge)
 Madge is a developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and give you other useful info. Joel Kemp's awesome dependency-tree is used for extracting the dependency tree.
 
+- [Miro](https://miro.com/)
+The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
+Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+
 - [Small Dev Tools](https://smalldev.tools/)
 Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
 
@@ -207,8 +211,6 @@ Semantic UI is an open source UI framework.
 - [Tailwind CSS](https://tailwindcss.com/)
 Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
 
-## Software Development FlowChart 
 
-- [Miro](https://miro.com/)
-The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
-Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+
+
