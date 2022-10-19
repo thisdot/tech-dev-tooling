@@ -138,6 +138,9 @@ Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Con
 
 - [XState](https://xstate.js.org/)
   Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
+  
+ -[Vuex](https://vuex.vuejs.org/)
+  Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 
 ## Package Managers
 
