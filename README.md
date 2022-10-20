@@ -94,6 +94,9 @@ We would love to know which tooling library you think deserves to be included in
 - [Strapi](https://strapi.io/)
   Strapi is an open-source CMS (Content Management System) with a beautiful and fully customizable dashboard. Build your API's faster (REST or GraphQL) and manage your content easily.
 
+- [Hasura](https://hasura.io/)
+Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
+
 ## Accessibility
 
 - [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
@@ -135,6 +138,9 @@ We would love to know which tooling library you think deserves to be included in
 
 - [XState](https://xstate.js.org/)
   Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
+  
+ -[Vuex](https://vuex.vuejs.org/)
+  Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 
 ## Package Managers
 
