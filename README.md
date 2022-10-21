@@ -35,7 +35,7 @@ We would love to know which tooling library you think deserves to be included in
   An open source text editor based in Vim, a highly configurable editor built to make creating and changing any kind of text very efficient.
 
 - [Nx](https://nx.dev/)
-  Framework to help architect, test, and build web applications. Especially helpful for organizing monorepos.
+  A smart, fast and extensible build system with first class monorepo support and powerful integrations.
 
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
   React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
@@ -48,6 +48,8 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Storybook](https://storybook.js.org/)
   An open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+
+- [Turborepo](https://turborepo.org/) A smart build system for JavaScript/TypeScript monorepos: codebases containing multiple projects, often using multiple frameworks, in a single, unified code repository.
 
 - [Visual Studio Code](https://code.visualstudio.com)
   An open source code editor that runs everywhere and allows you to do anything from debugging code to inputting Git commands or creating Sass code.
