@@ -142,6 +142,9 @@ We would love to know which tooling library you think deserves to be included in
 
 - [Vuex](https://vuex.vuejs.org/)
   Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
+  
+- [Pinia](https://pinia.vuejs.org/)
+  Pinia is a store library for Vue, it allows you to share a state across components/pages.
 
 ## Package Managers
 
