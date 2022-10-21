@@ -64,7 +64,6 @@ We would love to know which tooling library you think deserves to be included in
 - [Webhook](https://webhook.site/)
   Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
 
-
 ## APIs
 
 - [Hasura](https://hasura.io/)
@@ -95,7 +94,7 @@ We would love to know which tooling library you think deserves to be included in
   Strapi is an open-source CMS (Content Management System) with a beautiful and fully customizable dashboard. Build your API's faster (REST or GraphQL) and manage your content easily.
 
 - [Hasura](https://hasura.io/)
-Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
+  Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
 
 ## Accessibility
 
@@ -138,8 +137,8 @@ Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Con
 
 - [XState](https://xstate.js.org/)
   Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
-  
- -[Vuex](https://vuex.vuejs.org/)
+
+- [Vuex](https://vuex.vuejs.org/)
   Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
 
 ## Package Managers
@@ -162,7 +161,7 @@ Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Con
   Run UI tests in the cloud across different browsers on real devices. Automated selenium testing for automated cross-browser testing. Offers a lifetime free plan.
 
 - [Pattern Lab](https://patternlab.io/)
-A frontend workshop environment that helps you build, view, test, and showcase your design system's UI components.
+  A frontend workshop environment that helps you build, view, test, and showcase your design system's UI components.
 
 - [Puppeteer](https://pptr.dev/)
   Node library for controlling Chrome for UI testing.
@@ -172,10 +171,9 @@ A frontend workshop environment that helps you build, view, test, and showcase y
 
 - [Selenium](https://www.selenium.dev/)
   Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
-  
+
 - [Vitest](https://vitest.dev/)
   A Vite-native unit test framework that can be used on Vite.
-
 
 ## Web Design
 
@@ -212,11 +210,11 @@ A frontend workshop environment that helps you build, view, test, and showcase y
   Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
 
 - [Miro](https://miro.com/)
-The online collaborative whiteboard platform to bring teams together, anytime, anywhere. 
-Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
+  The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
+  Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
 
 - [Small Dev Tools](https://smalldev.tools/)
-Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
+  Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
 
 - [Notion](https://www.notion.so/)
   Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
@@ -249,10 +247,10 @@ Website with a variety of small, helpful tools. Examples include quick URL encod
 
 - [Bootstrap](https://getbootstrap.com/)
   Bootstrap is a free tool for HTML, CSS and JS development.
-  
+
 - [Bulma](https://bulma.io/)
-Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. 
-  
+  Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
+
 - [Chakra UI](https://chakra-ui.com/)
   Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
@@ -263,6 +261,4 @@ Bulma is a free, open source framework that provides ready-to-use frontend compo
   Semantic UI is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. 
-
-
+  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
