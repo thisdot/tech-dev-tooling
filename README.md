@@ -191,75 +191,72 @@ We would love to know which tooling library you think deserves to be included in
   A design, prototype and wireframe software that you can use to create interfaces, interactive designs, user testing and work collaboratively.
 
 - [Mockflow](https://www.mockflow.com/)
-  A wireframe software that allows you to create an interface. It has several internal components and icons.
+  is a wireframe software that allows you to create an interface. It has several internal components and icons.
 
 - [Protopie](https://protopie.io)
-  It's a no-code creation tool used to create interactive prototypes for mobile, web, desktop or the Internet of Things (IoT).
+  is  a no-code creation tool used to create interactive prototypes for mobile, web, desktop or the Internet of Things (IoT).
 
 - [Storybook](https://storybook.js.org/)
-  Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+  is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
 ## Miscellaneous
 
 - [GitHub](https://github.com)
-  GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
+  is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
 
 - [Madge](https://github.com/pahen/madge)
-  Madge is a developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and give you other useful info. Joel Kemp's awesome dependency-tree is used for extracting the dependency tree.
+  is a developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and give you other useful info. Joel Kemp's awesome dependency-tree is used for extracting the dependency tree.
 
 - [Markdownlint](https://github.com/DavidAnson/markdownlint)
-  Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
+  is a Visual Studio Code extension for markdown that will lint and style check it. For example, rule MD041 suggests that markdown files start with top-level headings. A list of problems is generated on save, and it offers guidance and automatic fixes. Turn off the rules you disagree with or write your own.
 
 - [Miro](https://miro.com/)
-  The online collaborative whiteboard platform to bring teams together, anytime, anywhere.
-  Miro helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
-
-- [Small Dev Tools](https://smalldev.tools/)
-  Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
+  is an online collaborative whiteboard platform to bring teams together, anytime, anywhere.
+ It helps web developers manage the flow for software creation & bifurcating the workload into modules & connecting them with bridges.
 
 - [Notion](https://www.notion.so/)
-  Notion is a note-taking app that allows you to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
+ is one of the best note-taking app that allows one to create and organize notes, tasks, wikis, and databases. It is a great alternative to Evernote.
 
 - [Small Dev Tools](https://smalldev.tools/)
-  Website with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
+  is a web based resource with a variety of small, helpful tools. Examples include quick URL encoding/decoding, code formatters, lorem ipsum generation, and a markdown editor.
 
 - [SourceTree](https://sourcetreeapp.com)
-  Sourcetree is a Graphical User Interface (GUI for the cool kids) used to manage Git repository hosts
+is a graphical user interface (GUI for the cool kids) used to manage git-based repositories whether they are locally or remote hosted.
 
 - [StackEdit](https://stackedit.io/)
-  Browser-based markdown editor.
+is a browser-based markdown editor.
 
 - [StackOverflow](https://stackoverflow.com)
-  A question and answer website built for programmers and tech enthusiasts.
+is one of the premier question and answer website built for/by programmers and tech enthusiasts to provide solutions to queries posed.
 
 - [Tiny Helpers](https://tiny-helpers.dev/)
-  A collection of free single-purpose online tools for web developers... Examples include tools for CSS, Color, SVG, Accessibility, Performmance, Icons and many more.
+is a collection of free single-purpose online tools for web developers... Examples include tools for CSS, Color, SVG, Accessibility, Performmance, Icons and many more.
 
 - [Trello](https://trello.com/)
-  Trello is the visual tool that empowers your team to manage any type of project, workflow, or task tracking. Add files, checklists, or even automation: customize it all for how your team works best.
+is a visual tool that empowers your team to manage any type of project, workflow, or task tracking. Add files, checklists, or even automation: customize it all for how your team works best.
 
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
-  Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
+ is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 
 ## Design System
 
 - [Ant Design](https://ant.design/)
-  Ant design is a design system for enterprise-level products.
+ is a design system for enterprise-level products.
 
 - [Bootstrap](https://getbootstrap.com/)
-  Bootstrap is a free tool for HTML, CSS and JS development.
+ is the most popular tool for HTML, CSS and JS development.
 
 - [Bulma](https://bulma.io/)
-  Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
+ is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces.
 
 - [Chakra UI](https://chakra-ui.com/)
-  Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
+ is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
 
 - [Materalize](https://materializecss.com/)
-  Materialize is a modern responsive CSS framework based on Material Design by Google.
+is a modern responsive CSS framework based on Material Design by Google.
 
 - [Semantic UI](https://semantic-ui.com/)
-  Semantic UI is an open source UI framework.
+is an open source UI framework.
 
 - [Tailwind CSS](https://tailwindcss.com/)
-  Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces.
+is a utility-first CSS framework used to rapidly building custom user interfaces.
