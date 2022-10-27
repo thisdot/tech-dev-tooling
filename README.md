@@ -65,130 +65,127 @@ We would love to know which tooling library you think deserves to be included in
 ## APIs
 
 - [Hasura](https://hasura.io/)
-  Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
+  provides  an instant realtime GraphQL APIs engine. It makes data instantly accessible over a real-time GraphQL API, enabling on to   build and ship modern apps and APIs much faster. Hasura connects to databases, REST servers, GraphQL servers, and third-party APIs to provide a unified GraphQL API, to be precise, an instant realtime GraphQL API across all one's data sources. 
 
 - [HoppScotch](https://hoppscotch.io/)
-  HoppScotch is a lightweight open source API development tool that runs smoothly and looks beautiful.
+  is a lightweight open source API development tool that runs smoothly and looks beautiful.
 
 - [HTTPie](https://httpie.io/)
-  Friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
+  is friendly tool for consuming APIs (and make HTTP requests in general) through CLI.
 
 - [Insomnia](https://insomnia.rest/)
-  Insomnia is an Open Source framework developing/testing API Clients. It can be used to send REST, SOAP, GraphQL and GRPC requests. With this tool it is possible to carry out documentation, automation and with its CLI tools version it is possible to implement pipeline tests.
+  is an open source framework developing/testing API Clients. It can be used to send REST, SOAP, GraphQL and GRPC requests. With this tool it is possible to carry out documentation, automation and with its CLI tools version it is possible to implement pipeline tests.
 
 - [Postman](https://www.postman.com/)
-  Platform for building and using APIs.
+  is a platform for building and using APIs.
 
 - [REST-assured](https://rest-assured.io/)
-  This is the tool of choice for most web devs working with Java. REST-assured enables you to test and validate REST services
+ is the tool of choice for most web devs working with Java. REST-assured enables one to test and validate REST services
 
 - [Sandbox](https://getsandbox.com/)
   helps to accelerate API development process and quickly mock SOAP web services and RESTful API. With Sandbox, you can generate from instant deployment, debugging tools for integration, API definitions, and collaborative build.
 
 - [SoapUI](https://www.soapui.org/)
-  Testing tools for APIs
+  is a testing tools for APIs.
 
 - [Strapi](https://strapi.io/)
-  Strapi is an open-source CMS (Content Management System) with a beautiful and fully customizable dashboard. Build your API's faster (REST or GraphQL) and manage your content easily.
-
-- [Hasura](https://hasura.io/)
-  Hasura gives you instant GraphQL & REST APIs on new & existing data sources. Connect Hasura to your data & get APIs in under a minute.
+  is an open-source CMS (Content Management System) with a beautiful and fully customizable dashboard. Build your API's faster (REST or GraphQL) and manage your content easily.
 
 ## Accessibility
 
-- [axe](https://www.deque.com/axe/): axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
-  axe is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
+- [axe](https://www.deque.com/axe/): is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. It is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US). It is a digital accessibility toolkit providing efficient accessibility testing and coverage for your testing needs. Axe is based off the popular accessibility testing library [axe-core](https://github.com/dequelabs/axe-core) and is also available as a [Chrome Extension](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US).
 
-- [LERA](https://chrome.google.com/webstore/detail/lera/neninfnjnhknniefcpognoooalfdaofc)
-  is an automated Accessibility testing and reporting tool that provides you with an in-depth report of your website’s accessibility issues. It’s FREE for everyone to use (and requires no credit card information). LERA is the only fully automated online tool that provides both Accessibility Audits and Reporting for free.
+- [LERA](https://chrome.google.com/webstore/detail/lera/neninfnjnhknniefcpognoooalfdaofc) is an automated Accessibility testing and reporting tool that provides you with an in-depth report of your website’s accessibility issues. It’s FREE for everyone to use (and requires no credit card information). LERA is the only fully automated online tool that provides both Accessibility Audits and Reporting for free.
 
 ## Security
 
 - [BurpSuite](https://portswigger.net/burp)
-  Web vulnerability scanner for automated testing, mapping, analysis, and security.
+  is a web vulnerability scanner for automated testing, mapping, analysis, and security.
 
 - [Datadog](https://www.datadoghq.com/)
-  Monitoring and security platform for cloud applications.
+  is a monitoring and security platform for cloud applications.
 
 - [Nmap](https://nmap.org/)
-  Network exploration tool and security / port scanner.
+  is a network exploration tool and security / port scanner.
+
+- [Sentry](https://sentry.io/welcome/) is similar to Datadog, it is a a crash reporting platform that provides you with "real-time insight into production deployments with info to reproduce and fix crashes". It notifies you of exceptions or errors that your users run into while using your app, and organizes them for you on a web dashboard.
 
 - [WireShark](https://www.wireshark.org/)
-  Network protocol analyzer.
+  is a network protocol analyzer.
 
 ## State Management
 
 - [Akita](https://opensource.salesforce.com/akita/)
-  State management pattern, built on top of RxJS, which takes the idea of multiple data stores from Flux and the immutable updates from Redux, along with the concept of streaming data, to create the Observable Data Store model.
+  is a state management pattern, built on top of RxJS, which takes the idea of multiple data stores from Flux and the immutable updates from Redux, along with the concept of streaming data, to create the Observable Data Store model.
 
 - [Elf](https://ngneat.github.io/elf/)
-  Reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it. Elf encourages simplicity. It saves you the hassle of creating boilerplate code and offers powerful tools with a moderate learning curve, suitable for experienced and inexperienced developers alike.
+  is a reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it. Elf encourages simplicity. It saves you the hassle of creating boilerplate code and offers powerful tools with a moderate learning curve, suitable for experienced and inexperienced developers alike.
 
 - [MobX](https://mobx.js.org/README.html)
-  State management library utilizing functional reactive programming.
+  is a state management library utilizing functional reactive programming.
 
 - [NgRx](https://ngrx.io/)
-  Provides reactive state management for Angular apps inspired by Redux. Unify the events in your application and derive state using RxJS.
+  provides reactive state management for Angular apps inspired by Redux. Unify the events in your application and derive state using RxJS.
 
 - [Redux](https://redux.js.org/)
-  Library for implementing centralized state management for JavaScript apps.
+  is a library for implementing centralized state management for JavaScript apps.
 
 - [XState](https://xstate.js.org/)
-  Use finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
+  uses finite state machines in JavaScript/TypeScript. Finite state machines can make state management more explicit and less of an ad hoc mess.
 
 - [Vuex](https://vuex.vuejs.org/)
-  Vuex is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
+  is a state management pattern + library for Vue.js applications. It serves as a centralized store for all the components in an application, with rules ensuring that the state can only be mutated in a predictable fashion.
   
 - [Pinia](https://pinia.vuejs.org/)
-  Pinia is a store library for Vue, it allows you to share a state across components/pages.
+  is a store library for Vue, it allows you to share a state across components/pages.
 
 ## Package Managers
 
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
-  Package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
+  is a package manager that is part of Node.js. Allows you to install, uninstall and update dependencies in an application.
 
 - [Yarn](https://yarnpkg.com/)
-  Package manager that is a replacement for NPM. It is faster and more secure than NPM.
+  is a package manager that is a replacement for NPM. It is said to be faster and more secure than NPM.
 
 ## Web Testing
 
 - [Cypress](https://www.cypress.io/)
-  A purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application.
+is a purely JavaScript-based front-end testing tool built for the modern web. It aims to address the pain points developers or QA engineers face while testing an application. It is well documented and hosts a wide variety of tooling for various Javascript frameworks.
 
 - [Jest](https://jestjs.io)
-  Unit test framework for javascript that runs so fast, you can run them all every time the file is saved.
+   is a JavaScript testing framework designed to ensure correctness of any JavaScript codebase. It allows one to write tests with an approachable, familiar and feature-rich API that gives you results quickly. Jest is well-documented, requires little configuration and can be extended to match your requirements.
 
 - [LambdaTest](https://www.lambdatest.com/)
-  Run UI tests in the cloud across different browsers on real devices. Automated selenium testing for automated cross-browser testing. Offers a lifetime free plan.
+  is a testing Run UI tests in the cloud across different browsers on real devices. Automated selenium testing for automated cross-browser testing. Offers a lifetime free plan.
 
 - [Pattern Lab](https://patternlab.io/)
-  A frontend workshop environment that helps you build, view, test, and showcase your design system's UI components.
+  is a frontend testing automation environment enables that helps you build, view, test, and showcase your design system's UI components. It facilitates the usage of multiple testing solutions for various languages.
 
 - [Puppeteer](https://pptr.dev/)
-  Node library for controlling Chrome for UI testing.
+  is a  Node-based library for controlling Chrome for UI testing.
 
 - [React Testing Library](https://testing-library.com/)
-  A popular testing library for React applications that also comes with a [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano).
+  is a  popular testing library for React applications that also comes with a [Testing Playground](https://chrome.google.com/webstore/detail/testing-playground/hejbmebodbijjdhflfknehhcgaklhano).
 
 - [Selenium](https://www.selenium.dev/)
-  Browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
+  is a browser automation software that allows programmatic sequences of clicks, scrolls, and typing on specific elements for testing websites.
 
 - [Vitest](https://vitest.dev/)
-  A Vite-native unit test framework that can be used on Vite.
+  is a Vite-native unit test framework that can be used on Vite.
 
 ## Web Design
 
 - [Figma](https://figma.com)
-  A design tool for UI/UX design
+  is a design tool for UI/UX design
 
 - [Framer](https://framer.com)
-  Framer is an awesome tool to empower you to create interactive, highly customisable prototypes with code
+  is an awesome tool to empower you to create interactive, highly customisable prototypes with code
 
 - [InVision](https://www.invisionapp.com/)
-  InVision is the online whiteboard and productivity platform powering the future of work.
+   is an online whiteboard and productivity platform powering the future of work.
 
 - [Marvel](https://marvelapp.com/)
-  A design, prototype and wireframe software that you can use to create interfaces, interactive designs, user testing and work collaboratively.
+  is a design, prototype and wireframe software that you can use to create interfaces, interactive designs, user testing and work collaboratively.
 
 - [Mockflow](https://www.mockflow.com/)
   is a wireframe software that allows you to create an interface. It has several internal components and icons.
