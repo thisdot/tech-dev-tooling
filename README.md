@@ -23,48 +23,44 @@ We would love to know which tooling library you think deserves to be included in
 ## Web Development
 
 - [bit.dev](https://bit.dev/)
-  Toolchain for building applications from independent components. Instead of building an application that consists of lots of components, Bit builds lots of components that are composed to build many different applications.
+  is an open-source toolchain for component-driven software. Instead of building an application that consists of individually created  components, Bit provides a examples of components that can be quickly used to build any application via any front-end framework.
 
-- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/)
-  Web developer tools built into the [Chrome](https://www.google.com/chrome/) browser.
+- [Chrome Dev Tools](https://developer.chrome.com/docs/devtools/) is web developer tooling built into the [Chrome](https://www.google.com/chrome/) browser.
 
-- [Create React App](https://create-react-app.dev/)
-  Create React App is a boiler plate to generate React projects.
+- [Create React App](https://create-react-app.dev/) is a popular boiler plate to generate React projects.
 
-- [Neovim](https://neovim.io/)
-  An open source text editor based in Vim, a highly configurable editor built to make creating and changing any kind of text very efficient.
+- [Neovim](https://neovim.io/) is an open source text editor based in Vim, a highly configurable editor built to make creating and changing any kind of text very efficient.
 
-- [Nx](https://nx.dev/)
-  A smart, fast and extensible build system with first class monorepo support and powerful integrations.
+- [Nx](https://nx.dev/) is a smart, fast and extensible build system, which is based in the Angular community, with first class monorepo support libraries and powerful integrations.
 
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-  React Developer Tools is a Chrome DevTools extension for the open-source React JavaScript library. It allows you to inspect the React component hierarchies in the Chrome Developer Tools.
+   is a Chrome DevTools extension for the open-source React JavaScript library. It allows one to inspect the React component hierarchies in the Chrome Developer Tools.
 
 - [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
-  Selector Gadget is an open source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
+  is an open source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
 
 - [Serverless](https://www.serverless.com/)
-  Serverless is a framework to generate backend projects with AWS Lambda.
+   is a framework that can be used to generate/deploy backend projects with AWS Lambda.
 
 - [Storybook](https://storybook.js.org/)
-  An open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+  is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
-- [Turborepo](https://turborepo.org/) A smart build system for JavaScript/TypeScript monorepos: codebases containing multiple projects, often using multiple frameworks, in a single, unified code repository.
+- [Turborepo](https://turborepo.org/) is a smart build system for JavaScript/TypeScript monorepos: codebases containing multiple projects, often using multiple frameworks, in a single, unified code repository.
 
 - [Visual Studio Code](https://code.visualstudio.com)
-  An open source code editor that runs everywhere and allows you to do anything from debugging code to inputting Git commands or creating Sass code.
+  is an open source code editor that runs everywhere and allows you to do anything from debugging code to inputting Git commands or creating Sass code.
 
 - [Vite](https://vitejs.dev/)
-  Vite is a boiler plate to generate front-end projects that supports many JavaScript frameworks.
+  is a boiler plate to generate front-end projects that supports many JavaScript frameworks.
 
 - [Vue.js Devtools](https://devtools.vuejs.org/)
-  Vue.js Browser Devtools is an open source extension for Vue.js framework. It allows you to debug Vue.js applications in the browser developer tools.
+  is an open source extension for Vue.js framework. It allows you to debug Vue.js applications in the browser developer tools.
 
 - [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-  A Chrome extension that adds a toolbar button to the browser with various web developer tools.
+  is a Chrome extension that can be added to the browser that contains a toolbar button with various web developer tools.
 
 - [Webhook](https://webhook.site/)
-  Webhook.site lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
+   lets you easily inspect, test and automate (with the visual [Custom Actions builder](https://docs.webhook.site/custom-actions.html), or [WebhookScript](https://docs.webhook.site/webhookscript.html)) any incoming HTTP request or e-mail.
 
 ## APIs
 
