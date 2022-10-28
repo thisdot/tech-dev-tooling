@@ -36,6 +36,8 @@ We would love to know which tooling library you think deserves to be included in
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
    is a Chrome DevTools extension for the open-source React JavaScript library. It allows one to inspect the React component hierarchies in the Chrome Developer Tools.
 
+- [Responsively](https://responsively.app/) is a modified browser designed to make responsive web development much easier and faster.
+
 - [Selector Gadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
   is an open-source Chrome Extension that makes CSS selector generation and discovery on complicated sites a breeze.
 
