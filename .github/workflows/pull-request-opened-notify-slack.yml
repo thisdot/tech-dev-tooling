@@ -1,0 +1,11 @@
+name: Send a Slack notification when PRs are opened
+on:
+  pull_request:
+    types:
+      - opened
+jobs:
+  send-slack-notification:
+    if: github.event.pull_request.merged == false &&
+      github.event.pull_request.user.login != 'dependabot[bot]'
+    uses: thisdot/shared-actions/.github/workflows/pull-request-opened-notify-slack.yml@main
+    secrets: inherit
