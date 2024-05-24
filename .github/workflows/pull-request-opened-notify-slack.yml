@@ -5,7 +5,6 @@ on:
       - opened
 jobs:
   send-slack-notification:
-    if: github.event.pull_request.merged == false &&
-      github.event.pull_request.user.login != 'dependabot[bot]'
+    if: github.event.pull_request.merged == false
     uses: thisdot/shared-actions/.github/workflows/pull-request-opened-notify-slack.yml@main
     secrets: inherit
