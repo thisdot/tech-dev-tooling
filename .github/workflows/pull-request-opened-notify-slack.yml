@@ -7,4 +7,5 @@ jobs:
   send-slack-notification:
     if: github.event.pull_request.merged == false
     uses: thisdot/shared-actions/.github/workflows/pull-request-opened-notify-slack.yml@main
-    secrets: inherit
+    secrets:
+      OSS_SLACK_NOTIFICATION_WEBHOOK_URL: ${{ secrets.OSS_SLACK_NOTIFICATION_WEBHOOK_URL }}
