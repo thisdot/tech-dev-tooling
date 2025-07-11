@@ -75,6 +75,9 @@ We would love to know which tooling library you think deserves to be included in
 - [HTTPie](https://httpie.io/)
   is a friendly tool for consuming APIs (and making HTTP requests in general) through CLI.
 
+- [HttpMaster](https://www.httpmaster.net/)
+is a debugging and testing tool for web API applications and services.
+
 - [Insomnia](https://insomnia.rest/)
   is an open-source framework developing/testing API clients. It can be used to send REST, SOAP, GraphQL and GRPC requests. With this tool, it is possible to carry out documentation, and automation and with its CLI tools version, it is possible to implement pipeline tests.
   
