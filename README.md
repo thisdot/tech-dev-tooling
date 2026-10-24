@@ -206,6 +206,9 @@ is a purely JavaScript-based front-end testing tool built for the modern web. It
 - [GitHub](https://github.com)
   is a web-based interface that uses Git, the open-source version control software that lets multiple people make separate changes to web pages at the same time.
 
+- [ITUpload](https://itupload.cn/en/)
+  is a collection of free online developer tools — JSON formatter, Base64 encoder/decoder, JWT decoder, regex tester, UUID generator, hash calculator, timestamp converter and more — that run entirely in the browser, so the data you paste is never uploaded.
+  
 - [Madge](https://github.com/pahen/madge)
   is a developer tool for generating a visual graph of the module dependencies, finding circular dependencies, and providing other useful info. Joel Kemp's awesome dependency tree is used for extracting the dependency tree.
 
